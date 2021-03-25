@@ -1,52 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T12:03:46.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mPuq7oTD4Kj0JktSXREQ" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T12:32:41.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="86rqBbu4YLd2mchqVs9L" version="14.5.1" type="github" pages="2">
   <diagram id="kbamLLEWdiJ2l8SxwMXW" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wi_iohliPsXgQ4-ZmCpo-2">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Wi_iohliPsXgQ4-ZmCpo-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="390" as="targetPoint" />
             <mxPoint x="630" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Server&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;glass=0;shadow=0;sketch=0;comic=1;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Server&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;glass=0;shadow=0;sketch=0;comic=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="250" width="120" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;comic=0;" edge="1" parent="1" source="Wi_iohliPsXgQ4-ZmCpo-5">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;comic=0;" parent="1" source="Wi_iohliPsXgQ4-ZmCpo-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Client&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#fad9d5;strokeColor=#ae4132;arcSize=22;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Client&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#fad9d5;strokeColor=#ae4132;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="80" y="250" width="120" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;确认CA、PremasterSecret(PS)使用CA公钥加密PS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;确认CA、PremasterSecret(PS)使用CA公钥加密PS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="440.5" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;使用CA私钥得到PS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;使用CA私钥得到PS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="547" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;使用CR、SR、PS生成sessionkey&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;使用CR、SR、PS生成sessionkey&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="269" y="578" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;确认加密方法、CA以及ServerRandom(SR)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;确认加密方法、CA以及ServerRandom(SR)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="253" y="366" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="310" as="sourcePoint" />
             <mxPoint x="620" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;协议版本号、ClientRandom(CR)以及加密方法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Wi_iohliPsXgQ4-ZmCpo-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;协议版本号、ClientRandom(CR)以及加密方法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="233" y="288" width="380" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gg1Ef7vxzIs0t7-cQK6X" name="Page-2">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zfXFrwO0DLdArsD7t92m-0" />
+        <mxCell id="zfXFrwO0DLdArsD7t92m-1" parent="zfXFrwO0DLdArsD7t92m-0" />
       </root>
     </mxGraphModel>
   </diagram>
