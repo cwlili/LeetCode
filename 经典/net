@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T15:08:29.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ghPaG1zHYPBY_0yCxqqk" version="14.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-29T15:41:03.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="S16Ja7mOP5eUZPkThaHs" version="14.5.1" type="github" pages="6">
   <diagram id="kbamLLEWdiJ2l8SxwMXW" name="net-73-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -617,6 +617,96 @@
       <root>
         <mxCell id="tBEX_cG9E8fMQH5c7DkO-0" />
         <mxCell id="tBEX_cG9E8fMQH5c7DkO-1" parent="tBEX_cG9E8fMQH5c7DkO-0" />
+        <mxCell id="gVCQo4ziDYU5nM3WQzsj-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1" source="gVCQo4ziDYU5nM3WQzsj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVCQo4ziDYU5nM3WQzsj-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;逆袭进大厂&lt;br&gt;之《C++》&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="20" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCQo4ziDYU5nM3WQzsj-5" value="&lt;h1 class=&quot;title-item strong fs-xxl mb-2&quot; style=&quot;margin-top: 0px ; margin-right: 0px ; margin-left: 0px ; padding: 0px ; font-size: 21px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;stheiti&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , ; background-color: rgb(255 , 255 , 255) ; margin-bottom: 10px&quot;&gt;No.1-10&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCQo4ziDYU5nM3WQzsj-8" value="" style="endArrow=none;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="680" as="sourcePoint" />
+            <mxPoint x="290" y="680" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVCQo4ziDYU5nM3WQzsj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVCQo4ziDYU5nM3WQzsj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="399.5" as="sourcePoint" />
+            <mxPoint x="240" y="399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7pPpOeG6j3AeUKKiyOC3-0" value="" style="endArrow=none;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1110" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1" source="7pPpOeG6j3AeUKKiyOC3-5" target="w3REZL8fzQygk5U4bGnI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7pPpOeG6j3AeUKKiyOC3-5" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px&quot;&gt;1、在main执行之前和之后执行的代码可能是什么？&lt;/span&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="40" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-1" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px&quot;&gt;2、结构体内存对齐问题？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="120" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-5" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px&quot;&gt;3、指针和引用的区别&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="200" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1" source="w3REZL8fzQygk5U4bGnI-9" target="w3REZL8fzQygk5U4bGnI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-9" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px&quot;&gt;4、堆和栈的区别是什么？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="270" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1" source="w3REZL8fzQygk5U4bGnI-11" target="w3REZL8fzQygk5U4bGnI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-11" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;5、如何区别下列指针类型？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="350" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-12" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;6、基类的虚函数表存放在内存的什么区？&lt;/span&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="430" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1" source="w3REZL8fzQygk5U4bGnI-17" target="w3REZL8fzQygk5U4bGnI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-17" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;7、new / delete 与 malloc / free的异同点是什么？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="510" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBEX_cG9E8fMQH5c7DkO-1" source="w3REZL8fzQygk5U4bGnI-19" target="w3REZL8fzQygk5U4bGnI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-19" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;8、new和delete是如何实现的？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="590" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-20" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;9、malloc和new的区别？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="670" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3REZL8fzQygk5U4bGnI-22" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;10、宏定义和函数有何区别？&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tBEX_cG9E8fMQH5c7DkO-1">
+          <mxGeometry x="390" y="740" width="450" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QJh4TgbZhMJ7gbiyT0gq" name="Page-6">
+    <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CL7MbBXzog6OhzcWyOCW-0" />
+        <mxCell id="CL7MbBXzog6OhzcWyOCW-1" parent="CL7MbBXzog6OhzcWyOCW-0" />
       </root>
     </mxGraphModel>
   </diagram>
