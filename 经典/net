@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T11:55:22.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="baGF_xB2bcSGLuINQbdR" version="14.6.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2021-04-24T11:56:28.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="_bTlD_ILccO8hsd5h83n" version="14.6.1" type="github" pages="19">
   <diagram id="kbamLLEWdiJ2l8SxwMXW" name="net-73-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2099,7 +2099,7 @@
       <root>
         <mxCell id="-FUXepcwdDvMFeY7HSlT-0" />
         <mxCell id="-FUXepcwdDvMFeY7HSlT-1" parent="-FUXepcwdDvMFeY7HSlT-0" />
-        <mxCell id="s87OLI9YSlA5kh_tvdNK-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;就绪队列&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;comic=1;startSize=0;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="-FUXepcwdDvMFeY7HSlT-1">
+        <mxCell id="s87OLI9YSlA5kh_tvdNK-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;就绪队列&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=1;startSize=0;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="-FUXepcwdDvMFeY7HSlT-1">
           <mxGeometry x="240" y="120" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s87OLI9YSlA5kh_tvdNK-2" style="edgeStyle=none;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;endArrow=open;endFill=0;startSize=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="-FUXepcwdDvMFeY7HSlT-1" source="s87OLI9YSlA5kh_tvdNK-1" target="s87OLI9YSlA5kh_tvdNK-1">
