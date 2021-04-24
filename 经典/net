@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T07:33:31.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1c1UE5bpAn8v-2-42qMq" version="14.6.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-04-24T07:40:49.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="hbhG_pzcap1ab_bOpEJC" version="14.6.1" type="github" pages="14">
   <diagram id="kbamLLEWdiJ2l8SxwMXW" name="net-73-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1482,28 +1482,69 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lpfx7LD1j5H9tcxQ75JB" name="Page-13">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="b4CbVk2iCqaS2q6Xgoap" name="C++-36-1">
+    <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DrjUshX27No6B08VRtfc-0" />
+        <mxCell id="DrjUshX27No6B08VRtfc-1" parent="DrjUshX27No6B08VRtfc-0" />
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-0" value="子类成员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="150" y="260" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-1" value="父类成员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="150" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-2" value="虚表指vptr" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="150" y="160" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="110" y="175" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; 派生类&lt;br&gt;对象模型&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="28" y="211" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-5" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;作者：阿秀&lt;br&gt;公众号：拓跋阿秀&lt;br&gt;GitHub:InterviewGuide&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="350" y="260" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;虚函数地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="400" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;虚函数地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="400" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;虚函数地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="400" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;虚函数地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="DrjUshX27No6B08VRtfc-1">
+          <mxGeometry x="400" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="75JL6FdqwTQlVTYz4zqT-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="DrjUshX27No6B08VRtfc-1" target="75JL6FdqwTQlVTYz4zqT-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="sourcePoint" />
+            <mxPoint x="350" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lpfx7LD1j5H9tcxQ75JB" name="C++-36-2">
+    <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5DVPaKqA0ZcetUW__HNU-0" />
         <mxCell id="5DVPaKqA0ZcetUW__HNU-1" parent="5DVPaKqA0ZcetUW__HNU-0" />
-        <mxCell id="-5PJHVatMALbPpL9g_lw-6" value="子类成员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
-          <mxGeometry x="150" y="260" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-5PJHVatMALbPpL9g_lw-7" value="父类成员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
-          <mxGeometry x="150" y="210" width="160" height="50" as="geometry" />
+        <mxCell id="-5PJHVatMALbPpL9g_lw-7" value="成员" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
+          <mxGeometry x="150" y="235" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-5PJHVatMALbPpL9g_lw-8" value="虚表指vptr" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;comic=1;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
-          <mxGeometry x="150" y="160" width="160" height="50" as="geometry" />
+          <mxGeometry x="150" y="185" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-5PJHVatMALbPpL9g_lw-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
-          <mxGeometry x="110" y="175" width="20" height="120" as="geometry" />
+          <mxGeometry x="108" y="201" width="32" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-5PJHVatMALbPpL9g_lw-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; 派生类&lt;br&gt;对象模型&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
-          <mxGeometry x="28" y="211" width="80" height="30" as="geometry" />
+        <mxCell id="-5PJHVatMALbPpL9g_lw-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&amp;nbsp; 父类&lt;br&gt;对象模型&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
+          <mxGeometry x="33" y="211" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5PJHVatMALbPpL9g_lw-30" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;作者：阿秀&lt;br&gt;公众号：拓跋阿秀&lt;br&gt;GitHub:InterviewGuide&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
-          <mxGeometry x="350" y="260" width="160" height="50" as="geometry" />
+          <mxGeometry x="350" y="235" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-5PJHVatMALbPpL9g_lw-32" value="&lt;font style=&quot;font-size: 18px&quot;&gt;虚函数地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
           <mxGeometry x="400" y="80" width="120" height="30" as="geometry" />
@@ -1517,10 +1558,10 @@
         <mxCell id="-5PJHVatMALbPpL9g_lw-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;虚函数地址&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="5DVPaKqA0ZcetUW__HNU-1">
           <mxGeometry x="400" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-5PJHVatMALbPpL9g_lw-39" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="5DVPaKqA0ZcetUW__HNU-1" target="-5PJHVatMALbPpL9g_lw-32">
+        <mxCell id="-5PJHVatMALbPpL9g_lw-39" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="5DVPaKqA0ZcetUW__HNU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="180" as="sourcePoint" />
-            <mxPoint x="350" y="130" as="targetPoint" />
+            <mxPoint x="303" y="192" as="sourcePoint" />
+            <mxPoint x="403" y="94.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
